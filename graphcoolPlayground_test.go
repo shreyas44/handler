@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/graphql-go/graphql/testutil"
-	"github.com/graphql-go/handler"
+	"github.com/shreyas44/handler"
 )
 
 func TestRenderPlayground(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/graphql-go/handler
+module github.com/shreyas44/handler
 
 go 1.14
 
